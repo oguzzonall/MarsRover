@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MarsRover.Core\MarsRover.Core.csproj" />
     <ProjectReference Include="..\MarsRover.Service\MarsRover.Service.csproj" />
   </ItemGroup>
   
